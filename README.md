@@ -262,9 +262,7 @@ ian-xiaohei-illustrations/
 
 这套小黑配图 Skill，只是我用 AI 搭建个人生产系统里的一个小工具。
 
-如果你也在用 AI 做内容、知识库、工作流或产品化，可以继续看我的网站：
-
-[ianneo.xyz](https://www.ianneo.xyz/)
+如果你也在用 AI 做内容、知识库、工作流或产品化，可以继续看我的网站：[ianneo.xyz](https://www.ianneo.xyz/)。
 
 只想先观察，可以关注我的 [X/Twitter](https://x.com/ianneo_ai)。  
 想了解 Indie Builders Club，加微信：`ianneoxyz`，备注「OPC」。
